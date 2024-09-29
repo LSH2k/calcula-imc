@@ -1,0 +1,29 @@
+.header {
+    background-color: var(--main-color);
+}
+
+.resultado {
+    background-color: blue;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 5px;
+    max-width: 240px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.table tr td {
+    padding: 8px;
+}
+
+.table th {
+    background-color: gray !important;
+    color: white !important;
+    padding: 8px;
+}
+
+.tableRes {
+    background-color: rgba(0, 153, 255, 0.267) !important;
+}

@@ -1,10 +1,12 @@
-import Header from './components/Header'
+import Calculadora from './components/Calculadora';
 
 function App() {
   
   return (
     <>
-    <Header />
+    <div className="bg-light">
+      <Calculadora />
+    </div>
     </>
   )
 }
